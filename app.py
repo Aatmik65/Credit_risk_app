@@ -52,7 +52,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "fb072d76-2b21-40b2-82f6-f6ae4f034733",
    "metadata": {},
    "outputs": [],
